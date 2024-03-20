@@ -1,0 +1,24 @@
+Lesson 2: Installing Jupyter/Anaconda IDE
+Read more:
+https://newdigitals.org/2024/01/23/basic-python-programming/#installing-jupyter-anaconda-ide
+Before jumping into data science, you need to set up the required software and tools and learn how to use them. This section will teach you how to install and use the Jupyter notebook within the Anaconda IDE for building a data science ecosystem.
+Download Anaconda installer for your operating system from: https://www.anaconda.com/downloads
+Once the download is complete, double-click the package to start installing Anaconda using the default settings.
+Click on Continue on the Introduction, Read Me, and License screens. Click on Agree to continue the installation, once the prompt below appears.
+On the Destination Select screen, select “Install for me only” and use the default installation PATH.
+Click on Continue to install Anaconda without the PyCharm IDE.
+After the installation completes, click on Close on Summary.
+Double-click on the Anaconda Navigator icon.
+Go to the Home page on Anaconda IDE and install Jupyter Notebook from an application. A Jupyter Notebook interface will appear in your default browser.
+With Jupyter Notebook open in your browser, you may have noticed that the URL for the dashboard is something like https://localhost:8888/tree. Localhost is not a website, but indicates that the content is being served from your local machine: your own computer.
+Browse to the folder in which you would like to create your first notebook, click the “New” drop-down button in the top-right and select “Python 3”.
+Your first Jupyter Notebook will open in new tab — each notebook uses its own tab because you can open multiple notebooks simultaneously.
+If you switch back to the dashboard, you will see the new file Untitled.ipynb. Each .ipynb file is one notebook, so each time you create a new notebook, a new  .ipynb file will be created.
+Cells form the body of a notebook. In the screenshot of a new notebook in the section above, that box with the green outline is an empty cell. 
+When we run the cell from the menu bar, its output is displayed below and the label to its left will have changed from In [ ] to In [1].
+From the menu bar, click Insert and select Insert Cell Below to create a new code cell underneath your first and try out the following code to see what happens. 
+Behind every notebook runs a kernel. When you run a code cell, that code is executed within the kernel. Any output is returned back to the cell to be displayed. The kernel’s state persists over time and between cells — it pertains to the document as a whole and not individual cells.
+Most of the time when you create a notebook, the flow will be top-to-bottom. 
+If your kernel is ever stuck on a computation and you wish to stop it, you can choose the Interrupt option.
+
+
