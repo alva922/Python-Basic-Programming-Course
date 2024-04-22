@@ -1,5 +1,9 @@
 # Python-Basic-Programming-Course
-This guide introduces the reader informally to the basic concepts and features of the Python programming language from scratch.
+This guide 
+
+https://newdigitals.org/2024/01/23/basic-python-programming/
+
+introduces the reader informally to the basic concepts and features of the Python programming language from scratch.
 
 Learn by examples! The guide supplements all explanations with clarifying examples.  
 
@@ -47,7 +51,10 @@ Functions
 Modules
 
 Conclusions
+https://newdigitals.org/2024/01/23/basic-python-programming/#conclusions
 
 The Road Ahead
+https://newdigitals.org/2024/01/23/basic-python-programming/#the-road-ahead
 
 References
+https://newdigitals.org/2024/01/23/basic-python-programming/#references
